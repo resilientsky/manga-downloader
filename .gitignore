@@ -15,5 +15,5 @@ build/
 .idea/
 
 # Application Specific
-backend/downloads/
+downloads/
 *.log
